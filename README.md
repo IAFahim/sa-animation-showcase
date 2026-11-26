@@ -19,7 +19,7 @@ Every GitHub Release corresponds to one Asset Store pack and contains:
 | 3 | 155602 | Brutal Double Axe AnimSet | Pending | - | - | - |
 | 4 | 271403 | Dual Sword Animation Pack | Pending | - | - | - |
 | 5 | 77575 | Flying Mage AnimSet | Pending | - | - | - |
-| 6 | 138889 | Frank RPG Mage | Pending | - | - | - |
+| 6 | 138889 | Frank RPG Mage | Verified | 202 (2 chars) | extra:19 attach:7 · max 0.10° / 0.01 cm | [138889-frank-rpg-mage](https://github.com/IAFahim/sa-animation-showcase/releases/tag/138889-frank-rpg-mage) |
 | 7 | 141184 | Frank Slash Pack - 12 Assets | Pending | - | - | - |
 | 8 | 198205 | Great DualBlade AnimSet | Pending | - | - | - |
 | 9 | 260640 | Great Sword Animation Pack | Pending | - | - | - |
