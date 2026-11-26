@@ -26,7 +26,7 @@ Every GitHub Release corresponds to one Asset Store pack and contains:
 | 10 | 151650 | Human Melee Animations | Pending | - | - | - |
 | 11 | 283730 | Mage Animation Pack | Pending | - | - | - |
 | 12 | 251438 | Massive GreatSword AnimSet | Pending | - | - | - |
-| 13 | 291284 | MC Sample - Believable 3D Animations by MoCap Central | Pending | - | - | - |
+| 13 | 291284 | MC Sample - Believable 3D Animations by MoCap Central | Verified | 129 (2 chars) | extra:0 attach:5 · max 0.10° / 0.00 cm | [291284-mc-sample-believable-3d-animations-by-mocap-central](https://github.com/IAFahim/sa-animation-showcase/releases/tag/291284-mc-sample-believable-3d-animations-by-mocap-central) |
 | 14 | 317431 | Nodachi Sword Animation Pack | Pending | - | - | - |
 | 15 | 174258 | Orientalism Dual Blade Anim Set | Pending | - | - | - |
 | 16 | 182928 | Platform Animation | Pending | - | - | - |
