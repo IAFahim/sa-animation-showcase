@@ -14,7 +14,7 @@ Every GitHub Release corresponds to one Asset Store pack and contains:
 ### 3D Animations (18 Packs)
 | # | Pack ID | Pack Name | Status | Clips | Rig / Extra Bones | Release |
 |---:|---:|---|---|---|---|---|
-| 1 | 318172 | Free Sword Animation | Pending | - | - | - |
+| 1 | 318172 | Free Sword Animation | Verified | 24 (2 chars) | extra:17 attach:3 · max 0.09° / 0.00 cm | [318172-free-sword-animation](https://github.com/IAFahim/sa-animation-showcase/releases/tag/318172-free-sword-animation) |
 | 2 | 165785 | Human Melee Animations FREE | Pending | - | - | - |
 | 3 | 155602 | Brutal Double Axe AnimSet | Pending | - | - | - |
 | 4 | 271403 | Dual Sword Animation Pack | Pending | - | - | - |
