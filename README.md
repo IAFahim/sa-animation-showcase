@@ -28,9 +28,9 @@ Every GitHub Release corresponds to one Asset Store pack and contains:
 | 12 | 251438 | Massive GreatSword AnimSet | Pending | - | - | - |
 | 13 | 291284 | MC Sample - Believable 3D Animations by MoCap Central | Verified | 129 (2 chars) | extra:0 attach:5 · max 0.10° / 0.00 cm | [291284-mc-sample-believable-3d-animations-by-mocap-central](https://github.com/IAFahim/sa-animation-showcase/releases/tag/291284-mc-sample-believable-3d-animations-by-mocap-central) |
 | 14 | 317431 | Nodachi Sword Animation Pack | Verified | 956 (1 chars) | extra:3 attach:2 · max 0.13° / 0.00 cm | [317431-nodachi-sword-animation-pack](https://github.com/IAFahim/sa-animation-showcase/releases/tag/317431-nodachi-sword-animation-pack) |
-| 15 | 174258 | Orientalism Dual Blade Anim Set | Pending | - | - | - |
+| 15 | 174258 | Orientalism Dual Blade Anim Set | Verified | 225 (1 chars) | extra:1 attach:3 · max 0.09° / 0.00 cm | [174258-orientalism-dual-blade-anim-set](https://github.com/IAFahim/sa-animation-showcase/releases/tag/174258-orientalism-dual-blade-anim-set) |
 | 16 | 182928 | Platform Animation | Verified | 614 (1 chars) | extra:3 attach:1 · max 0.10° / 0.00 cm | [182928-platform-animation](https://github.com/IAFahim/sa-animation-showcase/releases/tag/182928-platform-animation) |
-| 17 | 355538 | Scythe Animation Pack | Pending | - | - | - |
+| 17 | 355538 | Scythe Animation Pack | Verified | 1046 (2 chars) | extra:4 attach:2 · max 0.10° / 0.02 cm | [355538-scythe-animation-pack](https://github.com/IAFahim/sa-animation-showcase/releases/tag/355538-scythe-animation-pack) |
 | 18 | 230582 | Stylish Dual Blade Pack | Verified | 379 (1 chars) | extra:8 attach:1 · max 0.10° / 0.00 cm | [230582-stylish-dual-blade-pack](https://github.com/IAFahim/sa-animation-showcase/releases/tag/230582-stylish-dual-blade-pack) |
 
 ### 3D Characters & Creatures (14 Packs)
