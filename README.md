@@ -22,7 +22,7 @@ Every GitHub Release corresponds to one Asset Store pack and contains:
 | 6 | 138889 | Frank RPG Mage | Verified | 202 (2 chars) | extra:19 attach:7 · max 0.10° / 0.01 cm | [138889-frank-rpg-mage](https://github.com/IAFahim/sa-animation-showcase/releases/tag/138889-frank-rpg-mage) |
 | 7 | 141184 | Frank Slash Pack - 12 Assets | Pending | - | - | - |
 | 8 | 198205 | Great DualBlade AnimSet | Pending | - | - | - |
-| 9 | 260640 | Great Sword Animation Pack | Pending | - | - | - |
+| 9 | 260640 | Great Sword Animation Pack | Verified | 804 (1 chars) | extra:3 attach:2 · max 0.36° / 0.20 cm | [260640-great-sword-animation-pack](https://github.com/IAFahim/sa-animation-showcase/releases/tag/260640-great-sword-animation-pack) |
 | 10 | 151650 | Human Melee Animations | Verified | 620 (2 chars) | extra:5 attach:5 · max 0.10° / 0.00 cm | [151650-human-melee-animations](https://github.com/IAFahim/sa-animation-showcase/releases/tag/151650-human-melee-animations) |
 | 11 | 283730 | Mage Animation Pack | Pending | - | - | - |
 | 12 | 251438 | Massive GreatSword AnimSet | Pending | - | - | - |
