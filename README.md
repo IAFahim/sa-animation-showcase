@@ -21,13 +21,13 @@ Every GitHub Release corresponds to one Asset Store pack and contains:
 | 5 | 77575 | Flying Mage AnimSet | Verified | 143 (1 chars) | extra:9 attach:1 · max 0.10° / 0.00 cm | [77575-flying-mage-animset](https://github.com/IAFahim/sa-animation-showcase/releases/tag/77575-flying-mage-animset) |
 | 6 | 138889 | Frank RPG Mage | Verified | 202 (2 chars) | extra:19 attach:7 · max 0.10° / 0.01 cm | [138889-frank-rpg-mage](https://github.com/IAFahim/sa-animation-showcase/releases/tag/138889-frank-rpg-mage) |
 | 7 | 141184 | Frank Slash Pack - 12 Assets | Pending | - | - | - |
-| 8 | 198205 | Great DualBlade AnimSet | Pending | - | - | - |
+| 8 | 198205 | Great DualBlade AnimSet | Verified | 169 (1 chars) | extra:9 attach:3 · max 0.10° / 0.00 cm | [198205-great-dualblade-animset](https://github.com/IAFahim/sa-animation-showcase/releases/tag/198205-great-dualblade-animset) |
 | 9 | 260640 | Great Sword Animation Pack | Verified | 804 (1 chars) | extra:3 attach:2 · max 0.36° / 0.20 cm | [260640-great-sword-animation-pack](https://github.com/IAFahim/sa-animation-showcase/releases/tag/260640-great-sword-animation-pack) |
 | 10 | 151650 | Human Melee Animations | Verified | 620 (2 chars) | extra:5 attach:5 · max 0.10° / 0.00 cm | [151650-human-melee-animations](https://github.com/IAFahim/sa-animation-showcase/releases/tag/151650-human-melee-animations) |
 | 11 | 283730 | Mage Animation Pack | Verified | 971 (1 chars) | extra:3 attach:2 · max 0.10° / 0.00 cm | [283730-mage-animation-pack](https://github.com/IAFahim/sa-animation-showcase/releases/tag/283730-mage-animation-pack) |
 | 12 | 251438 | Massive GreatSword AnimSet | Pending | - | - | - |
 | 13 | 291284 | MC Sample - Believable 3D Animations by MoCap Central | Verified | 129 (2 chars) | extra:0 attach:5 · max 0.10° / 0.00 cm | [291284-mc-sample-believable-3d-animations-by-mocap-central](https://github.com/IAFahim/sa-animation-showcase/releases/tag/291284-mc-sample-believable-3d-animations-by-mocap-central) |
-| 14 | 317431 | Nodachi Sword Animation Pack | Pending | - | - | - |
+| 14 | 317431 | Nodachi Sword Animation Pack | Verified | 956 (1 chars) | extra:3 attach:2 · max 0.13° / 0.00 cm | [317431-nodachi-sword-animation-pack](https://github.com/IAFahim/sa-animation-showcase/releases/tag/317431-nodachi-sword-animation-pack) |
 | 15 | 174258 | Orientalism Dual Blade Anim Set | Pending | - | - | - |
 | 16 | 182928 | Platform Animation | Verified | 614 (1 chars) | extra:3 attach:1 · max 0.10° / 0.00 cm | [182928-platform-animation](https://github.com/IAFahim/sa-animation-showcase/releases/tag/182928-platform-animation) |
 | 17 | 355538 | Scythe Animation Pack | Pending | - | - | - |
