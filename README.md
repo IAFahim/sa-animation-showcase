@@ -17,7 +17,7 @@ Every GitHub Release corresponds to one Asset Store pack and contains:
 | 1 | 318172 | Free Sword Animation | Verified | 24 (2 chars) | extra:17 attach:3 · max 0.09° / 0.00 cm | [318172-free-sword-animation](https://github.com/IAFahim/sa-animation-showcase/releases/tag/318172-free-sword-animation) |
 | 2 | 165785 | Human Melee Animations FREE | Verified | 188 (2 chars) | extra:5 attach:5 · max 0.09° / 0.00 cm | [165785-human-melee-animations-free](https://github.com/IAFahim/sa-animation-showcase/releases/tag/165785-human-melee-animations-free) |
 | 3 | 155602 | Brutal Double Axe AnimSet | Pending | - | - | - |
-| 4 | 271403 | Dual Sword Animation Pack | Pending | - | - | - |
+| 4 | 271403 | Dual Sword Animation Pack | Verified | 925 (1 chars) | extra:4 attach:3 · max 0.10° / 0.00 cm | [271403-dual-sword-animation-pack](https://github.com/IAFahim/sa-animation-showcase/releases/tag/271403-dual-sword-animation-pack) |
 | 5 | 77575 | Flying Mage AnimSet | Pending | - | - | - |
 | 6 | 138889 | Frank RPG Mage | Verified | 202 (2 chars) | extra:19 attach:7 · max 0.10° / 0.01 cm | [138889-frank-rpg-mage](https://github.com/IAFahim/sa-animation-showcase/releases/tag/138889-frank-rpg-mage) |
 | 7 | 141184 | Frank Slash Pack - 12 Assets | Pending | - | - | - |
@@ -31,7 +31,7 @@ Every GitHub Release corresponds to one Asset Store pack and contains:
 | 15 | 174258 | Orientalism Dual Blade Anim Set | Pending | - | - | - |
 | 16 | 182928 | Platform Animation | Verified | 614 (1 chars) | extra:3 attach:1 · max 0.10° / 0.00 cm | [182928-platform-animation](https://github.com/IAFahim/sa-animation-showcase/releases/tag/182928-platform-animation) |
 | 17 | 355538 | Scythe Animation Pack | Pending | - | - | - |
-| 18 | 230582 | Stylish Dual Blade Pack | Pending | - | - | - |
+| 18 | 230582 | Stylish Dual Blade Pack | Verified | 379 (1 chars) | extra:8 attach:1 · max 0.10° / 0.00 cm | [230582-stylish-dual-blade-pack](https://github.com/IAFahim/sa-animation-showcase/releases/tag/230582-stylish-dual-blade-pack) |
 
 ### 3D Characters & Creatures (14 Packs)
 | # | Pack ID | Pack Name | Status | Clips | Rig / Extra Bones | Release |
